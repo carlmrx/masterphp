@@ -1,0 +1,10 @@
+este es un archivo de texto
+uno
+dos
+tres
+cuatro
+cinco
+seis
+siete
+ocho
+nueve
