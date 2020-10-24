@@ -12,3 +12,5 @@ select * from usuarios;
 *seleccionar que ver*
 select nombre from usuarios;
 select nombre,apellidos from usuarios; */
+
+insert into usuarios VALUES(10,'andrea','diaz','andrea@dias.com','123abc',curdate());
