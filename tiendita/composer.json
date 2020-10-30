@@ -1,0 +1,20 @@
+{
+    "name":"tiendita/online",
+    "description":"tiendita online demo",
+    "type":"proyect",
+    "license":"MIT",
+    "authors":[
+        {
+            "name":"carlos serrano",
+            "email":"carlos1205serr@gmail.com"
+        }
+    ],
+    "require":{
+
+    },
+    "autoload":{
+        "psr-4":{
+            "carlos\\":"src/"
+        }
+    }
+}
